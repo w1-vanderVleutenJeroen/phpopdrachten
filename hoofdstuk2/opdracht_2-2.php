@@ -85,4 +85,6 @@ echo $text12;
 echo $text7;
 echo $text10;
 echo $text14;
-
+?>
+</body>
+</html>
