@@ -1,0 +1,16 @@
+body{
+    background-color:lightgray;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: dimgray;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+*{
+    font-family: Lucida Sans;
+}
